@@ -1,0 +1,24 @@
+{
+  "name": "mimoolserver",
+  "version": "1.0.0",
+  "description": "the server side of the Mimool app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItamarBittton/mimoolServer.git"
+  },
+  "author": "Hovala-Cyber",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.13.4"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItamarBittton/mimoolServer/issues"
+  },
+  "homepage": "https://github.com/ItamarBittton/mimoolServer#readme"
+}
